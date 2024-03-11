@@ -1,0 +1,8 @@
+C:\Users\KRYTEX32\source\repos\FeladatA\FeladatA\bin\Debug\FeladatA.exe.config
+C:\Users\KRYTEX32\source\repos\FeladatA\FeladatA\bin\Debug\FeladatA.exe
+C:\Users\KRYTEX32\source\repos\FeladatA\FeladatA\bin\Debug\FeladatA.pdb
+C:\Users\KRYTEX32\source\repos\FeladatA\FeladatA\obj\Debug\FeladatA.csproj.AssemblyReference.cache
+C:\Users\KRYTEX32\source\repos\FeladatA\FeladatA\obj\Debug\FeladatA.csproj.SuggestedBindingRedirects.cache
+C:\Users\KRYTEX32\source\repos\FeladatA\FeladatA\obj\Debug\FeladatA.csproj.CoreCompileInputs.cache
+C:\Users\KRYTEX32\source\repos\FeladatA\FeladatA\obj\Debug\FeladatA.exe
+C:\Users\KRYTEX32\source\repos\FeladatA\FeladatA\obj\Debug\FeladatA.pdb
